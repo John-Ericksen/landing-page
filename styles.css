@@ -2,8 +2,11 @@
 
 body{
     font-family: 'Roboto Condensed', sans-serif;
-    
+    box-sizing: border-box;
     background-color: rgb(247, 200, 245);
+    display: flex;
+    justify-content: center;
+    min-width: 1000px;
 }
 
 a, .signup-area{
@@ -22,16 +25,17 @@ ul{
 
 
 .section-1{
-    display: flex;
+    display:  flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    width: 1600px;
+    width: 1850px;
     margin: auto;
     margin-top: -30px;
     background-color: rgb(86, 92, 184);
     padding: 30px;
     border-radius: 15px;
 }
+
 
 .logo-and-text{
     font-size: 24px;
@@ -66,7 +70,7 @@ ul{
 
 .signup-text{
     font-size: 25px;
-    width: 850px;
+    width: 700px;
     flex-wrap: wrap;
     font-weight: 500;
     margin-top: -70px;
