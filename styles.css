@@ -2,9 +2,8 @@
 
 body{
     font-family: 'Roboto Condensed', sans-serif;
-    box-sizing: border-box;
-    background-color: rgb(247, 200, 245);
     
+    background-color: rgb(247, 200, 245);
 }
 
 a, .signup-area{
@@ -24,11 +23,10 @@ ul{
 
 .section-1{
     display: flex;
-    flex:1 0 1;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin-left: 500px;
-    margin-right: 500px;
+    width: 1600px;
+    margin: auto;
     margin-top: -30px;
     background-color: rgb(86, 92, 184);
     padding: 30px;
