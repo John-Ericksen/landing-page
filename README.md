@@ -2,7 +2,11 @@
 Odin Project basic css final unit project.
 
 Art:
-    Penguin Logo: artist unknown
+    Penguin art: 
+        Artist Unknown
+        LovePik
+        kino
+
 
 
 Text:
