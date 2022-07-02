@@ -1,4 +1,4 @@
-# landing-page
+# Penguin Palace
 Odin Project basic css final unit project.
 
 Art:
